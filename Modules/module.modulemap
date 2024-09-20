@@ -1,0 +1,4 @@
+module Wait [system] {
+    header "wait.h"
+    export *
+}
